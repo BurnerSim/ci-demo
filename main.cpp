@@ -1,4 +1,4 @@
-#include "OpenMeteoWeatherService.hpp"      // Weather data provider
+#include "OpenMeteoWeatherService.hpp"
 #include "WeatherAnalyzer.hpp"
 #include "WeatherPresenter.hpp"
 
